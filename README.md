@@ -2,7 +2,6 @@
 
 This repository contains the Soroban contracts for [Stellar Trade](https://github.com/Stellar-tradehub/stellar-trade), an open-source prediction-market prototype on Stellar. The contracts define how XLM enters a market pool, how positions can be reduced, and how resolved or cancelled markets account for payouts and refunds.
 
-> **Status:** These contracts are experimental and have not received an independent security audit. The existing Testnet suite is a legacy deployment, and its configured market is expired. Fresh builds initialize a new reward asset named **Stellar Trade (STRD)**; that asset has not been deployed.
 
 ## Workspace map
 
